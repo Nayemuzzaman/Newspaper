@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">All Bangla Newspapers(BD) - বাংলা সকল সংবাদপত্র</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">All Bangla Newspapers(BD) - বাংলা সকল সংবাদপত্র</string>
+    <string name="nav_header_subtitle">nayemzaman@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Rate us</string>
+    <string name="title_activity_banglanews24">banglanews24</string>
+    <string name="title_activity_bangla">Bangla</string>
+    <string name="bannerAdUnitID">ca-app-pub-9110813664947673/2676286260</string>
+    <string name="interstitialAd">ca-app-pub-9110813664947673~1599664858</string>
+</resources>

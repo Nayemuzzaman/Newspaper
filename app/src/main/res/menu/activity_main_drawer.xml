@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/baseline_home_24"
+            android:title="Home Page" />
+        <item
+            android:id="@+id/nav_bookmark"
+            android:icon="@drawable/ic_bookmark_black_24dp"
+            android:title="Bookmarks" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/baseline_info_24"
+            android:title="About us" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/baseline_exit_to_app_24"
+            android:title="Exit" />
+    </group>
+
+    <item android:title="support us">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_odiawordbook"
+                android:icon="@drawable/baseline_book_24"
+                android:title="Kider Education" />
+        </menu>
+    </item>
+
+</menu>
