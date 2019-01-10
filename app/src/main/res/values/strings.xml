@@ -8,6 +8,6 @@
     <string name="action_settings">Rate us</string>
     <string name="title_activity_banglanews24">banglanews24</string>
     <string name="title_activity_bangla">Bangla</string>
-    <string name="bannerAdUnitID">ca-app-pub-9110813664947673/2676286260</string>
-    <string name="interstitialAd">ca-app-pub-9110813664947673~1599664858</string>
+    <string name="bannerAdUnitID">/</string>
+    <string name="interstitialAd">~</string>
 </resources>
